@@ -13,9 +13,13 @@ I'm currently learning python and getting accustomed to the world of software de
   
 # How to Reach me
 - 📫 Phintineke@gmail.com
+
+Feel free to explore my repositories, follow my journey, and connect with me.
+
+---
   
 😄 Pronouns: He/Him
-⚡ Fun fact: A person that thinks all the time has nothing to think about except thoughts.
+⚡ Fun fact: *"A person that thinks all the time has nothing to think about except thoughts."*
 
 <!---
 Phin-The-Human/Phin-The-Human is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
