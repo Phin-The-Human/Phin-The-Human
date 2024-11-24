@@ -1,6 +1,7 @@
 # Hi there!👋 
 I’m @Phin-The-Human, a final year Software Engineering student with a keen passion for coding and a strong intrest in DevOps. 
 I'm currently learning python and getting accustomed to the world of software development.
+[![trophy](https://github-profile-trophy.vercel.app/?username=Phin-The-Human)](https://github.com/ryo-ma/github-profile-trophy)
 
 # About Me
 - 🎓 Final year student in Software Engineering
